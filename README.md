@@ -1,1 +1,23 @@
 # FARWEST
+<html lang="pt-BR"></html>
+<head>
+     <link rel="stylessheet" href="styles.css"></head>
+     <titulo>FARWEST</titulo>
+</head>
+
+<body>
+<header>FARWEST</header>
+
+
+<h1>QUER CONHECER UM ÓTIMO FILME?</h1>
+<p><div id="bonsfilmes"></div></p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OAnksNB02y4?si=VFEiqpKIUopEv-1-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</div>
+</section>
+
+</body>
+
+</html>
+
